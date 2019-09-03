@@ -1,0 +1,1 @@
+[13-Aug-2018 07:37:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rmsdpi_result'@'localhost' (using password: YES) in /home/rmsdpi/public_html/conn/conn.php on line 9

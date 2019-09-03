@@ -1,0 +1,2 @@
+[28-Feb-2018 22:30:52 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/tpiedubd/public_html/rms.tpi.edu.bd/conn/conn.php on line 9
+[18-Mar-2018 11:47:35 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/tpiedubd/public_html/rms.tpi.edu.bd/conn/conn.php on line 9

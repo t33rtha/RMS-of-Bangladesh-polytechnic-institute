@@ -1,0 +1,2 @@
+[14-Mar-2018 15:22:34 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tpiedubd/public_html/rms.tpi.edu.bd/common/session.php:11) in /home/tpiedubd/public_html/rms.tpi.edu.bd/views/semester/index.php on line 11
+[06-May-2018 05:06:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rmsdpi/public_html/common/session.php:11) in /home/rmsdpi/public_html/views/semester/index.php on line 11

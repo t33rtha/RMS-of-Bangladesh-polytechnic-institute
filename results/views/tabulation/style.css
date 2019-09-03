@@ -1,0 +1,15 @@
+.printHeader{
+	margin: 0 0 5px 0!important;
+}
+.noPadding{
+	margin:10px 0 0 0px;
+}
+.no-margin{
+	margin: 0 0 0 0!important;
+}
+.std-name{
+	width:130px;
+}
+.session-text{
+	width:60px;
+}
